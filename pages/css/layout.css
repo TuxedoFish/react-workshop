@@ -16,6 +16,8 @@ body {
 	text-align: center;
 	margin-top: 5%;
 	padding: 50px;
+
+	margin-bottom: 5%;
 }
 .tutorial-card .title {
 	color: #49b287;
@@ -23,4 +25,21 @@ body {
 }
 .tutorial-card .text {
 	color: #245a43;
+}
+.tutorial-card .sub-title {
+	color: #49b287;
+}
+.booking {
+	width: 80%;
+	margin: auto;
+	position: relative;
+
+	padding: 20px 0 20px 0;
+	margin: 20px auto 20px auto;
+	color: #FFF;
+	border-radius: 5px;
+
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
 }
