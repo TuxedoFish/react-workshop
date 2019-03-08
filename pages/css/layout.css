@@ -17,3 +17,10 @@ body {
 	margin-top: 5%;
 	padding: 50px;
 }
+.tutorial-card .title {
+	color: #49b287;
+	padding-bottom: 20px;
+}
+.tutorial-card .text {
+	color: #245a43;
+}
